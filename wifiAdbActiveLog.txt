@@ -1,0 +1,3252 @@
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 21:35:03.947 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 21:35:03.948 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 21:35:03.949 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 21:35:03.950 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 21:35:03.950 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 21:35:03.951 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 21:35:08.007 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 21:35:08.007 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 21:37:19.822 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 21:37:19.822 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 21:37:19.823 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 21:37:19.823 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 21:37:19.824 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 21:37:19.824 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 21:37:23.769 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 21:37:23.769 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 21:40:54.046 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 21:40:54.047 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 21:40:54.051 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 21:40:54.051 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 21:40:54.052 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 21:40:54.052 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 21:40:58.476 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 21:40:58.477 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 22:20:23.634 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 22:20:23.638 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 22:20:23.639 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 22:20:23.640 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 22:20:23.640 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 22:20:23.640 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 22:20:27.520 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 22:20:27.618 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 22:24:45.869 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 22:24:45.870 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 22:24:45.870 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 22:24:45.871 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 22:24:45.871 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 22:24:45.873 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 22:24:49.731 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 22:24:49.802 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 22:46:40.011 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 22:46:40.012 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 22:46:40.014 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 22:46:40.014 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 22:46:40.015 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 22:46:40.015 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 22:46:43.812 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 22:46:43.813 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 22:48:01.922 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 22:48:01.926 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 22:48:01.928 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 22:48:01.930 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 22:48:01.931 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 22:48:01.932 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 22:48:06.015 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 22:48:06.015 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 22:49:49.027 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 22:49:49.027 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 22:49:49.028 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 22:49:49.030 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 22:49:49.030 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 22:49:49.031 WifiAdbActivateManager WifiAdbModel build
+2025-01-24 22:49:52.880 WifiAdbActivateManagerImpl scanConnPort
+2025-01-24 22:49:52.880 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-24 22:50:17.720 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-24 22:50:17.722 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-24 22:50:17.723 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-24 22:50:17.723 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-24 22:50:17.724 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-24 22:50:17.724 WifiAdbActivateManager WifiAdbModel build
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-25 00:19:41.567 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-25 00:19:41.569 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-25 00:19:41.570 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-25 00:19:41.570 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-25 00:19:41.570 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-25 00:19:41.571 WifiAdbActivateManager WifiAdbModel build
+2025-01-25 00:19:45.422 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 00:19:45.422 start scanConnPort
+2025-01-25 00:20:40.108 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 00:20:40.109 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-25 00:44:19.583 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-25 00:44:19.585 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-25 00:44:19.585 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-25 00:44:19.586 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-25 00:44:19.586 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-25 00:44:19.586 WifiAdbActivateManager WifiAdbModel build
+2025-01-25 00:44:23.455 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 00:44:23.456 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-25 01:04:04.552 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-25 01:04:04.554 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-25 01:04:04.555 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-25 01:04:04.556 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-25 01:04:04.557 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-25 01:04:04.557 WifiAdbActivateManager WifiAdbModel build
+2025-01-25 01:04:08.506 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 01:04:08.507 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-25 01:53:18.037 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-25 01:53:18.038 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-25 01:53:18.039 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-25 01:53:18.039 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-25 01:53:18.039 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-25 01:53:18.039 WifiAdbActivateManager WifiAdbModel build
+2025-01-25 01:53:21.718 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 01:53:21.929 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-25 15:22:29.563 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-25 15:22:29.565 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-25 15:22:29.566 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-25 15:22:29.566 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-25 15:22:29.567 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-25 15:22:29.567 WifiAdbActivateManager WifiAdbModel build
+2025-01-25 15:22:33.394 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 15:22:33.395 start scanConnPort
+2025-01-25 15:49:02.556 WifiAdbActivateManagerImpl scanConnPort
+2025-01-25 15:49:02.558 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-26 21:40:12.155 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-26 21:40:12.157 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-26 21:40:12.160 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-26 21:40:12.160 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-26 21:40:12.163 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-26 21:40:12.163 WifiAdbActivateManager WifiAdbModel build
+2025-01-26 21:40:16.198 WifiAdbActivateManagerImpl scanConnPort
+2025-01-26 21:40:16.199 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-26 21:45:55.616 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-26 21:45:55.618 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-26 21:45:55.620 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-26 21:45:55.620 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-26 21:45:55.621 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-26 21:45:55.621 WifiAdbActivateManager WifiAdbModel build
+2025-01-26 21:45:57.764 WifiAdbActivateManagerImpl scanConnPort
+2025-01-26 21:45:57.764 start scanConnPort
+2025-01-26 21:46:13.852 WifiAdbActivateManagerImpl scanConnPort
+2025-01-26 21:46:13.852 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-26 21:51:08.644 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-26 21:51:08.646 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-26 21:51:08.647 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-26 21:51:08.647 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-26 21:51:08.648 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-26 21:51:08.648 WifiAdbActivateManager WifiAdbModel build
+2025-01-26 21:51:10.919 WifiAdbActivateManagerImpl scanConnPort
+2025-01-26 21:51:10.920 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-27 02:55:55.827 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-27 02:55:55.829 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-27 02:55:55.830 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-27 02:55:55.830 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-27 02:55:55.831 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-27 02:55:55.831 WifiAdbActivateManager WifiAdbModel build
+2025-01-27 02:55:57.882 WifiAdbActivateManagerImpl scanConnPort
+2025-01-27 02:55:57.882 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-27 21:25:40.328 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-27 21:25:40.329 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-27 21:25:40.329 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-27 21:25:40.330 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-27 21:25:40.330 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-27 21:25:40.330 WifiAdbActivateManager WifiAdbModel build
+2025-01-27 21:25:42.404 WifiAdbActivateManagerImpl scanConnPort
+2025-01-27 21:25:42.404 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-28 04:15:28.648 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-28 04:15:28.650 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-28 04:15:28.651 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-28 04:15:28.651 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-28 04:15:28.651 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-28 04:15:28.651 WifiAdbActivateManager WifiAdbModel build
+2025-01-28 04:15:32.416 WifiAdbActivateManagerImpl scanConnPort
+2025-01-28 04:15:32.417 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-28 13:57:19.945 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-28 13:57:19.946 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-28 13:57:19.947 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-28 13:57:19.947 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-28 13:57:19.947 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-28 13:57:19.948 WifiAdbActivateManager WifiAdbModel build
+2025-01-28 13:57:21.893 WifiAdbActivateManagerImpl scanConnPort
+2025-01-28 13:57:21.893 start scanConnPort
+2025-01-28 14:23:24.956 WifiAdbActivateManagerImpl scanConnPort
+2025-01-28 14:23:24.957 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-29 04:01:53.712 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-29 04:01:53.714 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-29 04:01:53.714 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-29 04:01:53.714 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-29 04:01:53.714 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-29 04:01:53.715 WifiAdbActivateManager WifiAdbModel build
+2025-01-29 04:01:55.992 WifiAdbActivateManagerImpl scanConnPort
+2025-01-29 04:01:55.992 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-29 04:32:57.443 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-29 04:32:57.444 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-29 04:32:57.445 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-29 04:32:57.445 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-29 04:32:57.445 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-29 04:32:57.446 WifiAdbActivateManager WifiAdbModel build
+2025-01-29 04:32:58.924 WifiAdbActivateManagerImpl scanConnPort
+2025-01-29 04:32:58.996 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-29 14:45:24.520 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-29 14:45:24.521 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-29 14:45:24.522 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-29 14:45:24.523 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-29 14:45:24.524 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-29 14:45:24.525 WifiAdbActivateManager WifiAdbModel build
+2025-01-29 14:45:27.797 WifiAdbActivateManagerImpl scanConnPort
+2025-01-29 14:45:27.797 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 01:59:15.978 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 01:59:15.979 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 01:59:15.980 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 01:59:15.980 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 01:59:15.980 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 01:59:15.981 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 01:59:17.799 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 01:59:17.800 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 02:45:14.411 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 02:45:14.411 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 02:45:14.412 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 02:45:14.412 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 02:45:14.412 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 02:45:14.412 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 02:45:16.806 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 02:45:16.806 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 03:20:10.900 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 03:20:10.902 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 03:20:10.903 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 03:20:10.904 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 03:20:10.905 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 03:20:10.907 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 03:20:13.233 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 03:20:13.234 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 03:36:19.804 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 03:36:19.806 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 03:36:19.807 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 03:36:19.807 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 03:36:19.808 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 03:36:19.809 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 03:36:21.430 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 03:36:21.496 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 04:17:01.054 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 04:17:01.056 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 04:17:01.057 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 04:17:01.058 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 04:17:01.059 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 04:17:01.059 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 04:17:03.350 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 04:17:03.351 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 04:31:03.816 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 04:31:03.817 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 04:31:03.818 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 04:31:03.818 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 04:31:03.818 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 04:31:03.818 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 04:31:05.554 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 04:31:05.555 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 04:53:25.929 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 04:53:25.930 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 04:53:25.930 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 04:53:25.930 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 04:53:25.930 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 04:53:25.930 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 04:53:27.976 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 04:53:27.977 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-30 05:19:57.371 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-30 05:19:57.372 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-30 05:19:57.373 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-30 05:19:57.373 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-30 05:19:57.373 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-30 05:19:57.373 WifiAdbActivateManager WifiAdbModel build
+2025-01-30 05:19:59.222 WifiAdbActivateManagerImpl scanConnPort
+2025-01-30 05:19:59.223 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-01-31 01:49:54.424 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-01-31 01:49:54.425 WifiAdbActivateManager WifiAdbExeThread crate
+2025-01-31 01:49:54.425 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-01-31 01:49:54.425 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-01-31 01:49:54.425 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-01-31 01:49:54.425 WifiAdbActivateManager WifiAdbModel build
+2025-01-31 01:49:56.360 WifiAdbActivateManagerImpl scanConnPort
+2025-01-31 01:49:56.360 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-04 01:55:39.889 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-04 01:55:39.890 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-04 01:55:39.891 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-04 01:55:39.891 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-04 01:55:39.891 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-04 01:55:39.891 WifiAdbActivateManager WifiAdbModel build
+2025-02-04 01:55:41.624 WifiAdbActivateManagerImpl scanConnPort
+2025-02-04 01:55:41.625 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-06 16:02:19.022 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-06 16:02:19.023 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-06 16:02:19.023 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-06 16:02:19.023 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-06 16:02:19.023 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-06 16:02:19.024 WifiAdbActivateManager WifiAdbModel build
+2025-02-06 16:02:21.219 WifiAdbActivateManagerImpl scanConnPort
+2025-02-06 16:02:21.219 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-06 21:41:14.170 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-06 21:41:14.171 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-06 21:41:14.172 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-06 21:41:14.173 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-06 21:41:14.173 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-06 21:41:14.173 WifiAdbActivateManager WifiAdbModel build
+2025-02-06 21:41:18.128 WifiAdbActivateManagerImpl scanConnPort
+2025-02-06 21:41:18.129 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 05:26:46.545 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 05:26:46.545 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 05:26:46.546 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 05:26:46.546 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 05:26:46.546 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 05:26:46.546 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 05:26:50.094 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 05:26:50.094 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 16:18:32.607 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 16:18:32.609 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 16:18:32.609 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 16:18:32.611 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 16:18:32.611 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 16:18:32.612 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 16:18:36.172 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 16:18:36.173 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 16:38:15.320 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 16:38:15.321 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 16:38:15.321 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 16:38:15.321 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 16:38:15.321 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 16:38:15.322 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 16:38:18.809 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 16:38:18.809 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 17:13:31.194 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 17:13:31.195 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 17:13:31.195 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 17:13:31.196 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 17:13:31.196 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 17:13:31.196 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 17:13:34.709 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 17:13:34.710 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 17:26:10.787 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 17:26:10.789 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 17:26:10.790 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 17:26:10.790 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 17:26:10.790 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 17:26:10.790 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 17:26:14.269 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 17:26:14.270 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 17:38:44.678 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 17:38:44.679 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 17:38:44.679 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 17:38:44.679 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 17:38:44.680 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 17:38:44.680 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 17:38:48.249 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 17:38:48.250 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 19:39:02.352 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 19:39:02.353 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 19:39:02.353 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 19:39:02.353 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 19:39:02.354 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 19:39:02.354 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 19:39:05.900 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 19:39:05.900 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-07 21:02:39.580 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-07 21:02:39.585 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-07 21:02:39.586 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-07 21:02:39.586 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-07 21:02:39.588 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-07 21:02:39.589 WifiAdbActivateManager WifiAdbModel build
+2025-02-07 21:02:43.407 WifiAdbActivateManagerImpl scanConnPort
+2025-02-07 21:02:43.407 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-08 02:12:27.219 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-08 02:12:27.221 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-08 02:12:27.221 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-08 02:12:27.221 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-08 02:12:27.223 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-08 02:12:27.223 WifiAdbActivateManager WifiAdbModel build
+2025-02-08 02:12:31.171 WifiAdbActivateManagerImpl scanConnPort
+2025-02-08 02:12:31.172 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-08 03:09:17.000 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-08 03:09:17.002 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-08 03:09:17.002 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-08 03:09:17.002 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-08 03:09:17.003 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-08 03:09:17.003 WifiAdbActivateManager WifiAdbModel build
+2025-02-08 03:09:20.526 WifiAdbActivateManagerImpl scanConnPort
+2025-02-08 03:09:20.617 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-09 14:45:43.134 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-09 14:45:43.135 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-09 14:45:43.135 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-09 14:45:43.135 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-09 14:45:43.135 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-09 14:45:43.135 WifiAdbActivateManager WifiAdbModel build
+2025-02-09 14:45:46.630 WifiAdbActivateManagerImpl scanConnPort
+2025-02-09 14:45:46.630 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-10 20:05:20.929 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-10 20:05:20.932 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-10 20:05:20.932 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-10 20:05:20.932 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-10 20:05:20.933 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-10 20:05:20.933 WifiAdbActivateManager WifiAdbModel build
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-11 02:40:25.950 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-11 02:40:25.953 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-11 02:40:25.953 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-11 02:40:25.954 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-11 02:40:25.954 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-11 02:40:25.954 WifiAdbActivateManager WifiAdbModel build
+2025-02-11 02:40:29.434 WifiAdbActivateManagerImpl scanConnPort
+2025-02-11 02:40:29.523 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-11 02:59:18.463 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-11 02:59:18.463 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-11 02:59:18.464 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-11 02:59:18.464 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-11 02:59:18.464 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-11 02:59:18.464 WifiAdbActivateManager WifiAdbModel build
+2025-02-11 02:59:21.883 WifiAdbActivateManagerImpl scanConnPort
+2025-02-11 02:59:21.883 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-11 19:22:19.633 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-11 19:22:19.634 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-11 19:22:19.634 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-11 19:22:19.635 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-11 19:22:19.638 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-11 19:22:19.638 WifiAdbActivateManager WifiAdbModel build
+2025-02-11 19:22:23.110 WifiAdbActivateManagerImpl scanConnPort
+2025-02-11 19:22:23.110 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-12 19:36:26.431 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-12 19:36:26.434 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-12 19:36:26.435 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-12 19:36:26.435 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-12 19:36:26.436 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-12 19:36:26.436 WifiAdbActivateManager WifiAdbModel build
+2025-02-12 19:36:29.944 WifiAdbActivateManagerImpl scanConnPort
+2025-02-12 19:36:29.945 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-12 21:04:26.769 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-12 21:04:26.771 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-12 21:04:26.771 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-12 21:04:26.771 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-12 21:04:26.771 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-12 21:04:26.772 WifiAdbActivateManager WifiAdbModel build
+2025-02-12 21:04:30.237 WifiAdbActivateManagerImpl scanConnPort
+2025-02-12 21:04:30.237 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-12 21:19:07.927 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-12 21:19:07.928 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-12 21:19:07.928 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-12 21:19:07.935 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-12 21:19:07.935 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-12 21:19:07.935 WifiAdbActivateManager WifiAdbModel build
+2025-02-12 21:19:11.402 WifiAdbActivateManagerImpl scanConnPort
+2025-02-12 21:19:11.402 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-12 21:37:30.771 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-12 21:37:30.772 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-12 21:37:30.772 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-12 21:37:30.773 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-12 21:37:30.773 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-12 21:37:30.773 WifiAdbActivateManager WifiAdbModel build
+2025-02-12 21:37:34.218 WifiAdbActivateManagerImpl scanConnPort
+2025-02-12 21:37:34.218 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-13 01:09:10.350 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-13 01:09:10.353 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-13 01:09:10.353 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-13 01:09:10.353 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-13 01:09:10.354 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-13 01:09:10.354 WifiAdbActivateManager WifiAdbModel build
+2025-02-13 01:09:13.804 WifiAdbActivateManagerImpl scanConnPort
+2025-02-13 01:09:13.804 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-13 02:26:12.814 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-13 02:26:12.814 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-13 02:26:12.815 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-13 02:26:12.815 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-13 02:26:12.815 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-13 02:26:12.815 WifiAdbActivateManager WifiAdbModel build
+2025-02-13 02:26:16.293 WifiAdbActivateManagerImpl scanConnPort
+2025-02-13 02:26:16.293 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-13 13:27:30.402 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-13 13:27:30.403 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-13 13:27:30.404 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-13 13:27:30.404 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-13 13:27:30.404 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-13 13:27:30.405 WifiAdbActivateManager WifiAdbModel build
+2025-02-13 13:27:33.963 WifiAdbActivateManagerImpl scanConnPort
+2025-02-13 13:27:33.963 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-13 18:16:20.670 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-13 18:16:20.671 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-13 18:16:20.672 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-13 18:16:20.672 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-13 18:16:20.672 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-13 18:16:20.673 WifiAdbActivateManager WifiAdbModel build
+2025-02-13 18:16:24.264 WifiAdbActivateManagerImpl scanConnPort
+2025-02-13 18:16:24.264 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-13 19:25:09.082 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-13 19:25:09.083 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-13 19:25:09.083 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-13 19:25:09.084 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-13 19:25:09.084 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-13 19:25:09.084 WifiAdbActivateManager WifiAdbModel build
+2025-02-13 19:27:44.272 WifiAdbActivateManager networkStatusChange wifiConnected-log true scanConnPort
+2025-02-13 19:27:44.272 WifiAdbActivateManagerImpl scanConnPort
+2025-02-13 19:27:44.272 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-14 04:13:25.991 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-14 04:13:25.993 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-14 04:13:25.993 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-14 04:13:25.994 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-14 04:13:25.994 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-14 04:13:25.994 WifiAdbActivateManager WifiAdbModel build
+2025-02-14 04:13:29.544 WifiAdbActivateManagerImpl scanConnPort
+2025-02-14 04:13:29.545 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-14 20:33:18.410 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-14 20:33:18.410 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-14 20:33:18.411 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-14 20:33:18.411 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-14 20:33:18.411 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-14 20:33:18.411 WifiAdbActivateManager WifiAdbModel build
+2025-02-14 20:33:21.866 WifiAdbActivateManagerImpl scanConnPort
+2025-02-14 20:33:21.867 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-14 21:31:09.497 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-14 21:31:09.498 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-14 21:31:09.499 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-14 21:31:09.499 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-14 21:31:09.500 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-14 21:31:09.500 WifiAdbActivateManager WifiAdbModel build
+2025-02-14 21:31:13.033 WifiAdbActivateManagerImpl scanConnPort
+2025-02-14 21:31:13.034 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-15 02:51:09.256 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-15 02:51:09.258 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-15 02:51:09.259 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-15 02:51:09.259 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-15 02:51:09.260 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-15 02:51:09.260 WifiAdbActivateManager WifiAdbModel build
+2025-02-15 02:51:13.105 WifiAdbActivateManagerImpl scanConnPort
+2025-02-15 02:51:13.106 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-15 03:07:12.035 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-15 03:07:12.036 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-15 03:07:12.037 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-15 03:07:12.038 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-15 03:07:12.039 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-15 03:07:12.040 WifiAdbActivateManager WifiAdbModel build
+2025-02-15 03:07:15.829 WifiAdbActivateManagerImpl scanConnPort
+2025-02-15 03:07:15.830 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-15 12:22:42.036 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-15 12:22:42.038 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-15 12:22:42.039 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-15 12:22:42.040 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-15 12:22:42.041 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-15 12:22:42.041 WifiAdbActivateManager WifiAdbModel build
+2025-02-15 12:22:45.934 WifiAdbActivateManagerImpl scanConnPort
+2025-02-15 12:22:45.935 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-15 12:35:08.148 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-15 12:35:08.150 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-15 12:35:08.150 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-15 12:35:08.150 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-15 12:35:08.151 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-15 12:35:08.151 WifiAdbActivateManager WifiAdbModel build
+2025-02-15 12:35:11.744 WifiAdbActivateManagerImpl scanConnPort
+2025-02-15 12:35:11.744 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-15 12:38:07.090 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-15 12:38:07.091 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-15 12:38:07.091 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-15 12:38:07.091 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-15 12:38:07.091 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-15 12:38:07.092 WifiAdbActivateManager WifiAdbModel build
+2025-02-15 12:38:10.636 WifiAdbActivateManagerImpl scanConnPort
+2025-02-15 12:38:10.637 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-16 04:31:52.934 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-16 04:31:52.935 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-16 04:31:52.935 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-16 04:31:52.935 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-16 04:31:52.936 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-16 04:31:52.937 WifiAdbActivateManager WifiAdbModel build
+2025-02-16 04:31:56.484 WifiAdbActivateManagerImpl scanConnPort
+2025-02-16 04:31:56.484 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-16 05:00:52.951 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-16 05:00:52.954 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-16 05:00:52.955 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-16 05:00:52.955 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-16 05:00:52.957 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-16 05:00:52.958 WifiAdbActivateManager WifiAdbModel build
+2025-02-16 05:00:56.516 WifiAdbActivateManagerImpl scanConnPort
+2025-02-16 05:00:56.516 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-16 19:50:36.879 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-16 19:50:36.880 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-16 19:50:36.881 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-16 19:50:36.881 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-16 19:50:36.882 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-16 19:50:36.883 WifiAdbActivateManager WifiAdbModel build
+2025-02-16 19:50:40.573 WifiAdbActivateManagerImpl scanConnPort
+2025-02-16 19:50:40.573 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-17 00:30:04.545 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-17 00:30:04.546 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-17 00:30:04.546 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-17 00:30:04.547 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-17 00:30:04.547 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-17 00:30:04.547 WifiAdbActivateManager WifiAdbModel build
+2025-02-17 00:30:08.053 WifiAdbActivateManagerImpl scanConnPort
+2025-02-17 00:30:08.053 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-17 02:44:56.093 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-17 02:44:56.095 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-17 02:44:56.095 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-17 02:44:56.095 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-17 02:44:56.096 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-17 02:44:56.096 WifiAdbActivateManager WifiAdbModel build
+2025-02-17 02:44:59.899 WifiAdbActivateManagerImpl scanConnPort
+2025-02-17 02:44:59.900 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-18 00:26:29.168 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-18 00:26:29.168 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-18 00:26:29.169 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-18 00:26:29.169 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-18 00:26:29.169 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-18 00:26:29.170 WifiAdbActivateManager WifiAdbModel build
+2025-02-18 00:26:32.772 WifiAdbActivateManagerImpl scanConnPort
+2025-02-18 00:26:32.772 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-18 04:25:54.605 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-18 04:25:54.606 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-18 04:25:54.606 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-18 04:25:54.607 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-18 04:25:54.607 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-18 04:25:54.608 WifiAdbActivateManager WifiAdbModel build
+2025-02-18 04:25:58.153 WifiAdbActivateManagerImpl scanConnPort
+2025-02-18 04:25:58.153 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-18 04:27:38.243 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-18 04:27:38.244 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-18 04:27:38.244 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-18 04:27:38.244 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-18 04:27:38.244 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-18 04:27:38.245 WifiAdbActivateManager WifiAdbModel build
+2025-02-18 04:27:41.786 WifiAdbActivateManagerImpl scanConnPort
+2025-02-18 04:27:41.786 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-18 21:30:23.374 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-18 21:30:23.377 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-18 21:30:23.377 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-18 21:30:23.378 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-18 21:30:23.378 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-18 21:30:23.378 WifiAdbActivateManager WifiAdbModel build
+2025-02-18 21:30:26.960 WifiAdbActivateManagerImpl scanConnPort
+2025-02-18 21:30:26.960 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-18 23:25:24.322 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-18 23:25:24.323 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-18 23:25:24.323 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-18 23:25:24.324 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-18 23:25:24.324 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-18 23:25:24.324 WifiAdbActivateManager WifiAdbModel build
+2025-02-18 23:25:27.878 WifiAdbActivateManagerImpl scanConnPort
+2025-02-18 23:25:27.878 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 15:39:03.898 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 15:39:03.898 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 15:39:03.899 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 15:39:03.899 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 15:39:03.899 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 15:39:03.899 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 15:39:07.470 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 15:39:07.471 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 15:44:53.680 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 15:44:53.681 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 15:44:53.681 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 15:44:53.681 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 15:44:53.681 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 15:44:53.681 WifiAdbActivateManager WifiAdbModel build
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 17:16:40.718 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 17:16:40.721 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 17:16:40.722 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 17:16:40.722 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 17:16:40.723 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 17:16:40.724 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 17:16:44.667 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 17:16:44.668 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 17:27:48.068 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 17:27:48.069 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 17:27:48.070 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 17:27:48.071 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 17:27:48.071 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 17:27:48.072 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 17:27:52.082 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 17:27:52.083 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 17:36:18.837 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 17:36:18.839 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 17:36:18.840 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 17:36:18.840 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 17:36:18.840 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 17:36:18.841 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 17:36:22.414 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 17:36:22.414 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 17:41:04.971 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 17:41:04.971 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 17:41:04.972 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 17:41:04.972 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 17:41:04.972 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 17:41:04.972 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 17:41:08.552 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 17:41:08.552 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 17:48:24.553 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 17:48:24.557 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 17:48:24.558 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 17:48:24.560 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 17:48:24.561 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 17:48:24.561 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 17:48:28.444 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 17:48:28.445 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 17:52:50.770 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 17:52:50.771 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 17:52:50.771 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 17:52:50.772 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 17:52:50.772 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 17:52:50.772 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 17:52:54.628 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 17:52:54.770 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 18:10:28.468 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 18:10:28.470 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 18:10:28.471 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 18:10:28.471 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 18:10:28.472 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 18:10:28.473 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 18:10:32.471 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 18:10:32.472 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 18:44:00.073 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 18:44:00.074 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 18:44:00.074 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 18:44:00.074 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 18:44:00.074 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 18:44:00.075 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 18:44:03.765 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 18:44:03.766 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 19:08:24.510 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 19:08:24.512 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 19:08:24.513 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 19:08:24.514 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 19:08:24.516 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 19:08:24.518 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 19:08:28.422 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 19:08:28.423 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 19:10:30.742 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 19:10:30.743 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 19:10:30.743 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 19:10:30.743 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 19:10:30.743 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 19:10:30.743 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 19:10:34.513 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 19:10:34.514 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 19:17:20.616 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 19:17:20.617 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 19:17:20.617 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 19:17:20.618 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 19:17:20.619 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 19:17:20.619 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 19:17:24.434 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 19:17:24.435 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 19:36:49.760 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 19:36:49.763 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 19:36:49.763 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 19:36:49.766 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 19:36:49.766 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 19:36:49.767 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 19:36:53.494 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 19:36:53.494 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 20:26:52.343 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 20:26:52.345 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 20:26:52.345 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 20:26:52.345 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 20:26:52.345 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 20:26:52.346 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 20:26:55.977 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 20:26:55.977 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 20:57:25.899 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 20:57:25.901 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 20:57:25.902 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 20:57:25.903 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 20:57:25.904 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 20:57:25.906 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 20:57:29.609 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 20:57:29.609 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=OPPO PEDM00
+Android version=12
+UI version=V140
+2025-02-19 21:27:50.816 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-19 21:27:50.817 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-19 21:27:50.818 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-19 21:27:50.818 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-19 21:27:50.819 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-19 21:27:50.819 WifiAdbActivateManager WifiAdbModel build
+2025-02-19 21:27:54.427 WifiAdbActivateManagerImpl scanConnPort
+2025-02-19 21:27:54.510 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-20 00:42:23.956 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-20 00:42:23.958 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-20 00:42:23.958 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-20 00:42:23.959 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-20 00:42:23.960 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-20 00:42:23.960 WifiAdbActivateManager WifiAdbModel build
+2025-02-20 00:42:27.650 WifiAdbActivateManagerImpl scanConnPort
+2025-02-20 00:42:27.650 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-20 23:37:59.172 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-20 23:37:59.176 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-20 23:37:59.177 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-20 23:37:59.178 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-20 23:37:59.179 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-20 23:37:59.180 WifiAdbActivateManager WifiAdbModel build
+2025-02-20 23:38:02.771 WifiAdbActivateManagerImpl scanConnPort
+2025-02-20 23:38:02.772 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-21 23:26:10.027 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-21 23:26:10.029 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-21 23:26:10.030 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-21 23:26:10.030 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-21 23:26:10.030 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-21 23:26:10.030 WifiAdbActivateManager WifiAdbModel build
+2025-02-21 23:26:13.588 WifiAdbActivateManagerImpl scanConnPort
+2025-02-21 23:26:13.588 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-21 23:28:18.942 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-21 23:28:18.943 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-21 23:28:18.943 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-21 23:28:18.943 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-21 23:28:18.943 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-21 23:28:18.944 WifiAdbActivateManager WifiAdbModel build
+2025-02-21 23:28:22.484 WifiAdbActivateManagerImpl scanConnPort
+2025-02-21 23:28:22.485 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-22 03:24:37.427 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-22 03:24:37.431 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-22 03:24:37.432 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-22 03:24:37.432 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-22 03:24:37.433 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-22 03:24:37.433 WifiAdbActivateManager WifiAdbModel build
+2025-02-22 03:24:41.050 WifiAdbActivateManagerImpl scanConnPort
+2025-02-22 03:24:41.051 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-22 18:33:20.833 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-22 18:33:20.837 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-22 18:33:20.837 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-22 18:33:20.837 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-22 18:33:20.838 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-22 18:33:20.838 WifiAdbActivateManager WifiAdbModel build
+2025-02-22 18:33:24.433 WifiAdbActivateManagerImpl scanConnPort
+2025-02-22 18:33:24.434 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-22 20:44:09.486 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-22 20:44:09.487 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-22 20:44:09.487 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-22 20:44:09.487 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-22 20:44:09.487 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-22 20:44:09.488 WifiAdbActivateManager WifiAdbModel build
+2025-02-22 20:44:13.093 WifiAdbActivateManagerImpl scanConnPort
+2025-02-22 20:44:13.094 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 18:22:59.577 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 18:22:59.581 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 18:22:59.582 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 18:22:59.583 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 18:22:59.585 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 18:22:59.585 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 18:23:10.440 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 18:23:10.441 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 20:00:06.469 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 20:00:06.474 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 20:00:06.474 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 20:00:06.475 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 20:00:06.475 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 20:00:06.476 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 20:00:10.107 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 20:00:10.107 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 22:52:03.785 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 22:52:03.786 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 22:52:03.786 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 22:52:03.787 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 22:52:03.787 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 22:52:03.787 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 22:52:07.538 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:52:07.538 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 22:52:17.317 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 22:52:17.318 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 22:52:17.318 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 22:52:17.318 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 22:52:17.318 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 22:52:17.319 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 22:52:20.888 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:52:20.889 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 22:52:33.216 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 22:52:33.216 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 22:52:33.217 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 22:52:33.217 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 22:52:33.217 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 22:52:33.218 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 22:52:36.889 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:52:36.889 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 22:52:51.150 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 22:52:51.150 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 22:52:51.151 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 22:52:51.151 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 22:52:51.151 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 22:52:51.153 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 22:52:54.751 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:52:54.751 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 22:53:23.664 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 22:53:23.666 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 22:53:23.666 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 22:53:23.667 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 22:53:23.667 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 22:53:23.667 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 22:53:27.208 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:53:27.209 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-23 22:53:42.178 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-23 22:53:42.179 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-23 22:53:42.180 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-23 22:53:42.180 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-23 22:53:42.181 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-23 22:53:42.181 WifiAdbActivateManager WifiAdbModel build
+2025-02-23 22:53:45.812 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:53:45.812 start scanConnPort
+2025-02-23 22:54:10.241 WifiAdbActivateManager networkStatusChange wifiConnected-log true scanConnPort
+2025-02-23 22:54:10.241 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:54:10.242 start scanConnPort
+2025-02-23 22:54:20.016 WifiAdbActivateManager networkStatusChange wifiConnected-log true scanConnPort
+2025-02-23 22:54:20.016 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:54:20.016 start scanConnPort
+2025-02-23 22:54:35.788 WifiAdbActivateManager networkStatusChange wifiConnected-log true scanConnPort
+2025-02-23 22:54:35.788 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:54:35.788 start scanConnPort
+2025-02-23 22:54:56.144 WifiAdbActivateManager networkStatusChange wifiConnected-log true scanConnPort
+2025-02-23 22:54:56.145 WifiAdbActivateManagerImpl scanConnPort
+2025-02-23 22:54:56.145 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-24 20:15:49.958 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-24 20:15:49.959 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-24 20:15:49.959 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-24 20:15:49.960 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-24 20:15:49.960 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-24 20:15:49.960 WifiAdbActivateManager WifiAdbModel build
+2025-02-24 20:15:53.578 WifiAdbActivateManagerImpl scanConnPort
+2025-02-24 20:15:53.578 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-25 00:08:16.480 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-25 00:08:16.481 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-25 00:08:16.482 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-25 00:08:16.483 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-25 00:08:16.483 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-25 00:08:16.484 WifiAdbActivateManager WifiAdbModel build
+2025-02-25 00:08:20.100 WifiAdbActivateManagerImpl scanConnPort
+2025-02-25 00:08:20.100 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-25 03:58:03.252 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-25 03:58:03.254 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-25 03:58:03.255 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-25 03:58:03.255 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-25 03:58:03.255 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-25 03:58:03.256 WifiAdbActivateManager WifiAdbModel build
+2025-02-25 03:58:06.876 WifiAdbActivateManagerImpl scanConnPort
+2025-02-25 03:58:06.876 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-25 18:27:10.520 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-25 18:27:10.521 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-25 18:27:10.522 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-25 18:27:10.522 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-25 18:27:10.522 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-25 18:27:10.523 WifiAdbActivateManager WifiAdbModel build
+2025-02-25 18:48:19.510 WifiAdbActivateManager networkStatusChange wifiConnected-log true scanConnPort
+2025-02-25 18:48:19.518 WifiAdbActivateManagerImpl scanConnPort
+2025-02-25 18:48:19.518 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 03:19:22.646 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 03:19:22.647 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 03:19:22.647 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 03:19:22.648 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 03:19:22.648 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 03:19:22.648 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 03:19:26.262 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 03:19:26.263 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 06:17:05.927 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 06:17:05.928 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 06:17:05.928 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 06:17:05.928 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 06:17:05.928 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 06:17:05.929 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 06:17:09.507 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 06:17:09.507 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 08:04:09.287 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 08:04:09.290 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 08:04:09.290 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 08:04:09.290 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 08:04:09.291 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 08:04:09.291 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 08:04:12.846 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 08:04:12.846 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 18:25:44.150 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 18:25:44.153 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 18:25:44.155 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 18:25:44.156 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 18:25:44.157 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 18:25:44.158 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 18:25:47.761 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 18:25:47.761 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 19:02:13.664 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 19:02:13.665 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 19:02:13.666 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 19:02:13.667 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 19:02:13.667 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 19:02:13.667 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 19:02:17.300 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 19:02:17.300 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 19:57:18.077 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 19:57:18.079 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 19:57:18.080 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 19:57:18.081 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 19:57:18.082 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 19:57:18.083 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 19:57:21.650 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 19:57:21.650 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-26 20:22:10.477 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-26 20:22:10.479 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-26 20:22:10.480 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-26 20:22:10.481 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-26 20:22:10.481 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-26 20:22:10.481 WifiAdbActivateManager WifiAdbModel build
+2025-02-26 20:22:14.225 WifiAdbActivateManagerImpl scanConnPort
+2025-02-26 20:22:14.226 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 00:06:44.746 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 00:06:44.749 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 00:06:44.749 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 00:06:44.750 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 00:06:44.751 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 00:06:44.752 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 00:06:48.403 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 00:06:48.404 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 00:21:03.629 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 00:21:03.630 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 00:21:03.630 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 00:21:03.630 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 00:21:03.631 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 00:21:03.631 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 00:21:07.248 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 00:21:07.248 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 00:43:38.791 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 00:43:38.793 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 00:43:38.793 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 00:43:38.793 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 00:43:38.794 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 00:43:38.794 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 00:43:42.390 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 00:43:42.390 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 03:09:32.276 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 03:09:32.281 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 03:09:32.281 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 03:09:32.282 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 03:09:32.282 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 03:09:32.283 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 03:09:35.902 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 03:09:35.903 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 04:11:37.815 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 04:11:37.817 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 04:11:37.817 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 04:11:37.818 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 04:11:37.818 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 04:11:37.818 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 04:11:41.556 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 04:11:41.707 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 04:12:32.139 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 04:12:32.139 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 04:12:32.139 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 04:12:32.139 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 04:12:32.139 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 04:12:32.140 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 04:12:35.670 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 04:12:35.739 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 04:18:02.563 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 04:18:02.564 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 04:18:02.565 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 04:18:02.565 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 04:18:02.566 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 04:18:02.566 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 04:18:06.094 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 04:18:06.174 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 18:41:48.827 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 18:41:48.828 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 18:41:48.828 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 18:41:48.829 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 18:41:48.829 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 18:41:48.829 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 18:41:52.434 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 18:41:52.435 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-02-27 19:28:25.999 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-02-27 19:28:26.001 WifiAdbActivateManager WifiAdbExeThread crate
+2025-02-27 19:28:26.001 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-02-27 19:28:26.002 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-02-27 19:28:26.003 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-02-27 19:28:26.004 WifiAdbActivateManager WifiAdbModel build
+2025-02-27 19:28:29.610 WifiAdbActivateManagerImpl scanConnPort
+2025-02-27 19:28:29.611 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-01 22:32:20.595 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-01 22:32:20.596 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-01 22:32:20.597 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-01 22:32:20.597 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-01 22:32:20.597 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-01 22:32:20.598 WifiAdbActivateManager WifiAdbModel build
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-03 21:11:14.171 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-03 21:11:14.171 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-03 21:11:14.172 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-03 21:11:14.172 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-03 21:11:14.172 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-03 21:11:14.173 WifiAdbActivateManager WifiAdbModel build
+2025-03-03 21:11:17.755 WifiAdbActivateManagerImpl scanConnPort
+2025-03-03 21:11:17.756 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-06 22:50:34.654 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-06 22:50:34.655 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-06 22:50:34.655 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-06 22:50:34.656 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-06 22:50:34.656 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-06 22:50:34.656 WifiAdbActivateManager WifiAdbModel build
+2025-03-06 22:50:37.469 WifiAdbActivateManagerImpl scanConnPort
+2025-03-06 22:50:37.470 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-07 03:29:15.462 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-07 03:29:15.464 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-07 03:29:15.465 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-07 03:29:15.466 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-07 03:29:15.467 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-07 03:29:15.468 WifiAdbActivateManager WifiAdbModel build
+2025-03-07 03:29:17.872 WifiAdbActivateManagerImpl scanConnPort
+2025-03-07 03:29:17.872 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-07 04:20:35.822 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-07 04:20:35.824 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-07 04:20:35.824 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-07 04:20:35.824 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-07 04:20:35.824 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-07 04:20:35.825 WifiAdbActivateManager WifiAdbModel build
+2025-03-07 04:20:37.753 WifiAdbActivateManagerImpl scanConnPort
+2025-03-07 04:20:37.753 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-07 04:35:13.331 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-07 04:35:13.334 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-07 04:35:13.334 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-07 04:35:13.335 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-07 04:35:13.336 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-07 04:35:13.336 WifiAdbActivateManager WifiAdbModel build
+2025-03-07 04:35:15.519 WifiAdbActivateManagerImpl scanConnPort
+2025-03-07 04:35:15.519 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-07 06:31:20.739 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-07 06:31:20.740 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-07 06:31:20.741 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-07 06:31:20.741 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-07 06:31:20.742 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-07 06:31:20.742 WifiAdbActivateManager WifiAdbModel build
+2025-03-07 06:31:23.176 WifiAdbActivateManagerImpl scanConnPort
+2025-03-07 06:31:23.176 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-07 07:02:26.965 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-07 07:02:26.965 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-07 07:02:26.965 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-07 07:02:26.966 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-07 07:02:26.967 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-07 07:02:26.967 WifiAdbActivateManager WifiAdbModel build
+2025-03-07 07:02:29.295 WifiAdbActivateManagerImpl scanConnPort
+2025-03-07 07:02:29.296 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-07 23:18:46.344 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-07 23:18:46.346 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-07 23:18:46.347 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-07 23:18:46.348 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-07 23:18:46.349 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-07 23:18:46.349 WifiAdbActivateManager WifiAdbModel build
+2025-03-07 23:18:50.861 WifiAdbActivateManagerImpl scanConnPort
+2025-03-07 23:18:50.861 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-08 12:00:56.887 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-08 12:00:56.889 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-08 12:00:56.889 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-08 12:00:56.889 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-08 12:00:56.890 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-08 12:00:56.890 WifiAdbActivateManager WifiAdbModel build
+2025-03-08 12:00:59.015 WifiAdbActivateManagerImpl scanConnPort
+2025-03-08 12:00:59.015 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-08 17:56:19.587 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-08 17:56:19.590 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-08 17:56:19.591 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-08 17:56:19.592 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-08 17:56:19.592 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-08 17:56:19.593 WifiAdbActivateManager WifiAdbModel build
+2025-03-08 17:56:25.165 WifiAdbActivateManagerImpl scanConnPort
+2025-03-08 17:56:25.165 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-08 18:41:15.029 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-08 18:41:15.029 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-08 18:41:15.029 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-08 18:41:15.030 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-08 18:41:15.030 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-08 18:41:15.030 WifiAdbActivateManager WifiAdbModel build
+2025-03-08 18:41:17.818 WifiAdbActivateManagerImpl scanConnPort
+2025-03-08 18:41:17.819 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-08 20:50:48.796 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-08 20:50:48.797 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-08 20:50:48.797 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-08 20:50:48.797 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-08 20:50:48.798 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-08 20:50:48.799 WifiAdbActivateManager WifiAdbModel build
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-09 02:53:50.983 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-09 02:53:50.985 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-09 02:53:50.986 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-09 02:53:50.987 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-09 02:53:50.988 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-09 02:53:50.988 WifiAdbActivateManager WifiAdbModel build
+2025-03-09 02:53:52.986 WifiAdbActivateManagerImpl scanConnPort
+2025-03-09 02:53:52.986 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-09 10:59:05.855 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-09 10:59:05.858 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-09 10:59:05.858 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-09 10:59:05.858 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-09 10:59:05.859 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-09 10:59:05.859 WifiAdbActivateManager WifiAdbModel build
+2025-03-09 10:59:06.945 WifiAdbActivateManagerImpl scanConnPort
+2025-03-09 10:59:06.948 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-09 12:09:07.925 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-09 12:09:07.926 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-09 12:09:07.927 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-09 12:09:07.927 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-09 12:09:07.927 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-09 12:09:07.927 WifiAdbActivateManager WifiAdbModel build
+2025-03-09 12:09:08.824 WifiAdbActivateManagerImpl scanConnPort
+2025-03-09 12:09:08.825 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-09 21:12:47.281 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-09 21:12:47.284 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-09 21:12:47.284 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-09 21:12:47.284 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-09 21:12:47.285 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-09 21:12:47.285 WifiAdbActivateManager WifiAdbModel build
+2025-03-09 21:12:48.168 WifiAdbActivateManagerImpl scanConnPort
+2025-03-09 21:12:48.172 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 01:44:38.584 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 01:44:38.589 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 01:44:38.589 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 01:44:38.589 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 01:44:38.590 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 01:44:38.590 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 01:44:39.597 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 01:44:39.598 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 01:50:14.087 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 01:50:14.088 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 01:50:14.088 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 01:50:14.088 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 01:50:14.089 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 01:50:14.090 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 01:50:15.200 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 01:50:15.204 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 01:58:43.136 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 01:58:43.137 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 01:58:43.137 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 01:58:43.137 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 01:58:43.138 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 01:58:43.138 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 01:58:45.080 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 01:58:45.081 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 02:00:15.239 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 02:00:15.240 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 02:00:15.240 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 02:00:15.241 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 02:00:15.241 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 02:00:15.241 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 02:00:17.491 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 02:00:17.580 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 02:00:24.341 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 02:00:24.341 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 02:00:24.342 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 02:00:24.342 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 02:00:24.343 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 02:00:24.344 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 02:00:26.084 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 02:00:26.172 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 02:02:05.997 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 02:02:05.998 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 02:02:05.998 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 02:02:05.999 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 02:02:05.999 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 02:02:05.999 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 02:02:07.921 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 02:02:07.976 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-10 18:55:39.923 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-10 18:55:39.924 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-10 18:55:39.924 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-10 18:55:39.925 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-10 18:55:39.925 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-10 18:55:39.925 WifiAdbActivateManager WifiAdbModel build
+2025-03-10 18:55:43.042 WifiAdbActivateManagerImpl scanConnPort
+2025-03-10 18:55:43.042 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 03:18:41.071 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 03:18:41.073 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 03:18:41.074 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 03:18:41.074 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 03:18:41.074 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 03:18:41.074 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 03:18:42.530 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 03:18:42.530 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 03:30:09.071 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 03:30:09.073 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 03:30:09.074 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 03:30:09.074 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 03:30:09.075 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 03:30:09.075 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 03:30:10.649 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 03:30:10.649 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 03:30:16.401 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 03:30:16.401 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 03:30:16.402 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 03:30:16.402 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 03:30:16.402 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 03:30:16.403 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 03:30:17.991 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 03:30:17.992 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 03:35:05.026 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 03:35:05.027 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 03:35:05.027 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 03:35:05.028 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 03:35:05.028 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 03:35:05.028 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 03:35:06.893 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 03:35:06.893 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 20:17:59.385 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 20:17:59.386 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 20:17:59.386 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 20:17:59.386 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 20:17:59.386 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 20:17:59.386 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 20:18:01.619 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 20:18:01.619 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 21:19:17.207 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 21:19:17.209 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 21:19:17.211 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 21:19:17.211 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 21:19:17.212 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 21:19:17.212 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 21:19:19.023 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 21:19:19.023 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 21:35:10.273 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 21:35:10.275 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 21:35:10.276 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 21:35:10.277 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 21:35:10.278 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 21:35:10.278 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 21:35:12.032 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 21:35:12.033 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 21:51:22.787 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 21:51:22.790 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 21:51:22.791 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 21:51:22.792 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 21:51:22.792 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 21:51:22.793 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 21:51:24.900 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 21:51:24.901 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 23:07:32.309 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 23:07:32.311 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 23:07:32.311 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 23:07:32.311 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 23:07:32.312 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 23:07:32.313 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 23:07:33.448 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 23:07:33.456 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 23:23:59.212 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 23:23:59.219 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 23:23:59.219 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 23:23:59.221 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 23:23:59.222 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 23:23:59.222 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 23:24:01.710 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 23:24:01.710 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 23:29:57.834 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 23:29:57.837 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 23:29:57.837 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 23:29:57.837 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 23:29:57.837 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 23:29:57.838 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 23:29:59.925 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 23:29:59.926 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 23:46:26.388 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 23:46:26.393 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 23:46:26.393 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 23:46:26.393 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 23:46:26.394 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 23:46:26.394 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 23:46:28.405 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 23:46:28.542 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-11 23:58:14.438 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-11 23:58:14.439 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-11 23:58:14.439 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-11 23:58:14.439 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-11 23:58:14.440 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-11 23:58:14.441 WifiAdbActivateManager WifiAdbModel build
+2025-03-11 23:58:16.266 WifiAdbActivateManagerImpl scanConnPort
+2025-03-11 23:58:16.326 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-13 05:37:26.289 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-13 05:37:26.290 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-13 05:37:26.291 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-13 05:37:26.291 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-13 05:37:26.291 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-13 05:37:26.291 WifiAdbActivateManager WifiAdbModel build
+2025-03-13 05:37:28.277 WifiAdbActivateManagerImpl scanConnPort
+2025-03-13 05:37:28.277 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-13 05:38:03.866 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-13 05:38:03.867 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-13 05:38:03.867 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-13 05:38:03.867 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-13 05:38:03.867 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-13 05:38:03.868 WifiAdbActivateManager WifiAdbModel build
+2025-03-13 05:38:06.551 WifiAdbActivateManagerImpl scanConnPort
+2025-03-13 05:38:06.551 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-14 02:47:55.711 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-14 02:47:55.713 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-14 02:47:55.714 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-14 02:47:55.714 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-14 02:47:55.714 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-14 02:47:55.715 WifiAdbActivateManager WifiAdbModel build
+2025-03-14 02:47:58.588 WifiAdbActivateManagerImpl scanConnPort
+2025-03-14 02:47:58.589 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 06:25:07.294 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 06:25:07.296 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 06:25:07.296 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 06:25:07.296 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 06:25:07.297 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 06:25:07.297 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 06:25:09.724 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 06:25:09.724 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 06:37:45.563 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 06:37:45.563 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 06:37:45.564 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 06:37:45.564 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 06:37:45.564 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 06:37:45.565 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 06:37:47.492 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 06:37:47.565 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 07:14:46.217 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 07:14:46.217 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 07:14:46.232 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 07:14:46.241 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 07:14:46.248 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 07:14:46.257 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 07:14:51.906 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 07:14:51.980 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 07:43:52.805 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 07:43:52.805 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 07:43:52.806 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 07:43:52.806 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 07:43:52.806 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 07:43:52.806 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 07:43:54.654 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 07:43:54.654 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 08:02:37.321 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 08:02:37.321 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 08:02:37.321 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 08:02:37.322 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 08:02:37.322 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 08:02:37.322 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 08:02:39.479 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 08:02:39.480 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 08:18:13.837 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 08:18:13.838 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 08:18:13.838 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 08:18:13.838 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 08:18:13.838 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 08:18:13.839 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 08:18:15.537 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 08:18:15.596 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 08:29:20.628 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 08:29:20.630 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 08:29:20.631 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 08:29:20.632 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 08:29:20.632 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 08:29:20.633 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 08:29:23.090 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 08:29:23.090 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 08:59:32.970 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 08:59:32.972 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 08:59:32.973 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 08:59:32.973 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 08:59:32.973 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 08:59:32.974 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 08:59:34.693 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 08:59:34.762 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 09:13:06.700 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 09:13:06.701 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 09:13:06.701 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 09:13:06.701 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 09:13:06.702 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 09:13:06.702 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 09:13:08.439 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 09:13:08.439 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 09:13:14.219 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 09:13:14.220 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 09:13:14.221 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 09:13:14.221 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 09:13:14.221 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 09:13:14.221 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 09:13:15.837 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 09:13:15.838 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 09:33:04.172 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 09:33:04.174 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 09:33:04.174 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 09:33:04.174 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 09:33:04.174 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 09:33:04.175 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 09:33:05.897 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 09:33:05.897 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 09:46:22.835 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 09:46:22.836 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 09:46:22.836 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 09:46:22.836 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 09:46:22.837 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 09:46:22.837 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 09:46:24.522 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 09:46:24.522 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 10:14:48.178 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 10:14:48.180 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 10:14:48.180 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 10:14:48.181 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 10:14:48.182 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 10:14:48.184 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 10:14:49.859 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 10:14:49.860 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 19:22:58.271 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 19:22:58.272 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 19:22:58.273 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 19:22:58.273 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 19:22:58.274 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 19:22:58.274 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 19:23:00.144 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 19:23:00.145 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 19:41:45.604 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 19:41:45.605 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 19:41:45.606 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 19:41:45.606 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 19:41:45.606 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 19:41:45.607 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 19:41:47.420 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 19:41:47.421 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-15 20:35:32.559 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-15 20:35:32.562 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-15 20:35:32.563 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-15 20:35:32.564 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-15 20:35:32.565 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-15 20:35:32.565 WifiAdbActivateManager WifiAdbModel build
+2025-03-15 20:35:34.697 WifiAdbActivateManagerImpl scanConnPort
+2025-03-15 20:35:34.697 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 02:23:39.693 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 02:23:39.695 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 02:23:39.695 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 02:23:39.696 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 02:23:39.696 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 02:23:39.696 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 02:23:41.990 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 02:23:41.990 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 02:59:18.777 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 02:59:18.779 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 02:59:18.780 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 02:59:18.781 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 02:59:18.781 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 02:59:18.782 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 02:59:20.809 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 02:59:20.809 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 02:59:47.373 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 02:59:47.373 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 02:59:47.373 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 02:59:47.374 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 02:59:47.375 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 02:59:47.376 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 02:59:49.132 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 02:59:49.158 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:00:12.471 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 03:00:12.471 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 03:00:12.472 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 03:00:12.473 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 03:00:12.473 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 03:00:12.474 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 03:00:13.562 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:00:13.594 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:00:59.944 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:00:59.966 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:01:23.951 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 03:01:23.951 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 03:01:23.951 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 03:01:23.952 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 03:01:23.952 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 03:01:23.952 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 03:01:25.043 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:01:25.082 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:13:55.064 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 03:13:55.064 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 03:13:55.082 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 03:13:55.103 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 03:13:55.105 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 03:13:55.105 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 03:13:56.324 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:13:56.358 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:14:26.179 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 03:14:26.180 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 03:14:26.180 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 03:14:26.181 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 03:14:26.181 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 03:14:26.181 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 03:14:27.283 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:14:27.318 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:14:32.988 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 03:14:32.989 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 03:14:32.989 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 03:14:32.990 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 03:14:32.990 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 03:14:32.990 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 03:14:34.168 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:14:34.202 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 03:15:49.511 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 03:15:49.512 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 03:15:49.512 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 03:15:49.512 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 03:15:49.513 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 03:15:49.513 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 03:15:51.390 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 03:15:51.446 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-16 21:32:42.393 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-16 21:32:42.394 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-16 21:32:42.394 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-16 21:32:42.395 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-16 21:32:42.395 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-16 21:32:42.396 WifiAdbActivateManager WifiAdbModel build
+2025-03-16 21:32:46.295 WifiAdbActivateManagerImpl scanConnPort
+2025-03-16 21:32:46.295 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-17 03:16:59.375 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-17 03:16:59.377 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-17 03:16:59.378 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-17 03:16:59.378 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-17 03:16:59.379 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-17 03:16:59.379 WifiAdbActivateManager WifiAdbModel build
+2025-03-17 03:17:00.626 WifiAdbActivateManagerImpl scanConnPort
+2025-03-17 03:17:00.626 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-17 03:17:29.596 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-17 03:17:29.598 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-17 03:17:29.598 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-17 03:17:29.599 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-17 03:17:29.599 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-17 03:17:29.599 WifiAdbActivateManager WifiAdbModel build
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-17 21:36:29.328 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-17 21:36:29.329 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-17 21:36:29.329 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-17 21:36:29.330 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-17 21:36:29.330 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-17 21:36:29.331 WifiAdbActivateManager WifiAdbModel build
+2025-03-17 21:36:31.509 WifiAdbActivateManagerImpl scanConnPort
+2025-03-17 21:36:31.511 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-17 22:08:54.741 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-17 22:08:54.743 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-17 22:08:54.743 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-17 22:08:54.743 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-17 22:08:54.743 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-17 22:08:54.744 WifiAdbActivateManager WifiAdbModel build
+2025-03-17 22:08:57.223 WifiAdbActivateManagerImpl scanConnPort
+2025-03-17 22:08:57.224 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-18 21:33:18.486 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-18 21:33:18.487 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-18 21:33:18.488 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-18 21:33:18.488 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-18 21:33:18.488 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-18 21:33:18.488 WifiAdbActivateManager WifiAdbModel build
+2025-03-18 21:33:21.076 WifiAdbActivateManagerImpl scanConnPort
+2025-03-18 21:33:21.077 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-19 20:41:18.990 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-19 20:41:18.991 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-19 20:41:18.992 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-19 20:41:18.992 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-19 20:41:18.993 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-19 20:41:18.993 WifiAdbActivateManager WifiAdbModel build
+2025-03-19 20:41:21.131 WifiAdbActivateManagerImpl scanConnPort
+2025-03-19 20:41:21.132 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-19 21:40:17.578 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-19 21:40:17.579 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-19 21:40:17.579 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-19 21:40:17.580 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-19 21:40:17.580 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-19 21:40:17.581 WifiAdbActivateManager WifiAdbModel build
+2025-03-19 21:40:19.395 WifiAdbActivateManagerImpl scanConnPort
+2025-03-19 21:40:19.467 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-19 22:16:25.967 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-19 22:16:25.969 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-19 22:16:25.969 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-19 22:16:25.970 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-19 22:16:25.970 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-19 22:16:25.970 WifiAdbActivateManager WifiAdbModel build
+2025-03-19 22:16:26.999 WifiAdbActivateManagerImpl scanConnPort
+2025-03-19 22:16:27.043 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-19 22:17:54.544 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-19 22:17:54.546 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-19 22:17:54.599 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-19 22:17:54.647 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-19 22:17:54.695 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-19 22:17:54.743 WifiAdbActivateManager WifiAdbModel build
+2025-03-19 22:17:56.227 WifiAdbActivateManagerImpl scanConnPort
+2025-03-19 22:17:56.323 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-20 13:07:43.695 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-20 13:07:43.697 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-20 13:07:43.697 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-20 13:07:43.697 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-20 13:07:43.698 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-20 13:07:43.698 WifiAdbActivateManager WifiAdbModel build
+2025-03-20 13:07:45.986 WifiAdbActivateManagerImpl scanConnPort
+2025-03-20 13:07:45.987 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-20 19:02:52.752 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-20 19:02:52.754 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-20 19:02:52.755 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-20 19:02:52.756 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-20 19:02:52.757 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-20 19:02:52.757 WifiAdbActivateManager WifiAdbModel build
+2025-03-20 19:02:55.598 WifiAdbActivateManagerImpl scanConnPort
+2025-03-20 19:02:55.598 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-23 21:17:43.809 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-23 21:17:43.812 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-23 21:17:43.812 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-23 21:17:43.813 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-23 21:17:43.813 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-23 21:17:43.814 WifiAdbActivateManager WifiAdbModel build
+2025-03-23 21:17:46.213 WifiAdbActivateManagerImpl scanConnPort
+2025-03-23 21:17:46.214 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-24 04:52:08.035 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-24 04:52:08.038 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-24 04:52:08.041 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-24 04:52:08.042 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-24 04:52:08.042 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-24 04:52:08.043 WifiAdbActivateManager WifiAdbModel build
+2025-03-24 04:52:10.949 WifiAdbActivateManagerImpl scanConnPort
+2025-03-24 04:52:10.949 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-24 19:36:40.695 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-24 19:36:40.698 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-24 19:36:40.699 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-24 19:36:40.700 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-24 19:36:40.701 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-24 19:36:40.703 WifiAdbActivateManager WifiAdbModel build
+2025-03-24 19:36:43.364 WifiAdbActivateManagerImpl scanConnPort
+2025-03-24 19:36:43.364 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-24 19:38:23.035 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-24 19:38:23.035 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-24 19:38:23.035 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-24 19:38:23.036 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-24 19:38:23.036 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-24 19:38:23.036 WifiAdbActivateManager WifiAdbModel build
+2025-03-24 19:38:25.356 WifiAdbActivateManagerImpl scanConnPort
+2025-03-24 19:38:25.357 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-25 21:22:24.937 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-25 21:22:24.940 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-25 21:22:24.940 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-25 21:22:24.941 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-25 21:22:24.942 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-25 21:22:24.943 WifiAdbActivateManager WifiAdbModel build
+2025-03-25 21:22:27.291 WifiAdbActivateManagerImpl scanConnPort
+2025-03-25 21:22:27.291 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-26 05:04:51.583 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-26 05:04:51.585 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-26 05:04:51.585 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-26 05:04:51.585 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-26 05:04:51.586 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-26 05:04:51.586 WifiAdbActivateManager WifiAdbModel build
+2025-03-26 05:04:54.416 WifiAdbActivateManagerImpl scanConnPort
+2025-03-26 05:04:54.417 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-26 17:42:26.414 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-26 17:42:26.418 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-26 17:42:26.418 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-26 17:42:26.419 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-26 17:42:26.419 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-26 17:42:26.420 WifiAdbActivateManager WifiAdbModel build
+2025-03-26 17:42:29.075 WifiAdbActivateManagerImpl scanConnPort
+2025-03-26 17:42:29.075 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-26 20:45:53.512 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-26 20:45:53.515 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-26 20:45:53.516 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-26 20:45:53.517 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-26 20:45:53.517 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-26 20:45:53.517 WifiAdbActivateManager WifiAdbModel build
+2025-03-26 20:45:55.757 WifiAdbActivateManagerImpl scanConnPort
+2025-03-26 20:45:55.758 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-26 23:47:33.314 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-26 23:47:33.316 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-26 23:47:33.317 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-26 23:47:33.317 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-26 23:47:33.317 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-26 23:47:33.319 WifiAdbActivateManager WifiAdbModel build
+2025-03-26 23:47:35.762 WifiAdbActivateManagerImpl scanConnPort
+2025-03-26 23:47:35.762 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-26 23:49:58.529 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-26 23:49:58.532 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-26 23:49:58.532 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-26 23:49:58.535 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-26 23:49:58.536 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-26 23:49:58.537 WifiAdbActivateManager WifiAdbModel build
+2025-03-26 23:50:01.134 WifiAdbActivateManagerImpl scanConnPort
+2025-03-26 23:50:01.135 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-27 12:49:03.065 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-27 12:49:03.068 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-27 12:49:03.069 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-27 12:49:03.070 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-27 12:49:03.071 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-27 12:49:03.071 WifiAdbActivateManager WifiAdbModel build
+2025-03-27 12:49:05.202 WifiAdbActivateManagerImpl scanConnPort
+2025-03-27 12:49:05.203 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-27 18:35:55.076 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-27 18:35:55.079 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-27 18:35:55.080 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-27 18:35:55.081 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-27 18:35:55.082 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-27 18:35:55.082 WifiAdbActivateManager WifiAdbModel build
+2025-03-27 18:35:58.252 WifiAdbActivateManagerImpl scanConnPort
+2025-03-27 18:35:58.253 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-27 19:01:07.104 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-27 19:01:07.106 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-27 19:01:07.108 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-27 19:01:07.110 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-27 19:01:07.111 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-27 19:01:07.112 WifiAdbActivateManager WifiAdbModel build
+2025-03-27 19:01:09.590 WifiAdbActivateManagerImpl scanConnPort
+2025-03-27 19:01:09.590 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-27 20:33:27.579 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-27 20:33:27.581 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-27 20:33:27.581 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-27 20:33:27.581 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-27 20:33:27.582 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-27 20:33:27.582 WifiAdbActivateManager WifiAdbModel build
+2025-03-27 20:33:29.800 WifiAdbActivateManagerImpl scanConnPort
+2025-03-27 20:33:29.800 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-27 23:08:15.456 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-27 23:08:15.459 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-27 23:08:15.460 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-27 23:08:15.461 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-27 23:08:15.462 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-27 23:08:15.463 WifiAdbActivateManager WifiAdbModel build
+2025-03-27 23:08:18.109 WifiAdbActivateManagerImpl scanConnPort
+2025-03-27 23:08:18.110 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-28 12:24:02.313 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-28 12:24:02.314 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-28 12:24:02.315 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-28 12:24:02.315 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-28 12:24:02.315 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-28 12:24:02.316 WifiAdbActivateManager WifiAdbModel build
+2025-03-28 12:24:04.969 WifiAdbActivateManagerImpl scanConnPort
+2025-03-28 12:24:04.971 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-28 19:01:31.184 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-28 19:01:31.186 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-28 19:01:31.186 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-28 19:01:31.187 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-28 19:01:31.187 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-28 19:01:31.187 WifiAdbActivateManager WifiAdbModel build
+2025-03-28 19:01:36.184 WifiAdbActivateManagerImpl scanConnPort
+2025-03-28 19:01:36.184 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 02:29:11.028 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 02:29:11.030 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 02:29:11.030 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 02:29:11.031 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 02:29:11.031 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 02:29:11.032 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 02:29:12.708 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 02:29:12.709 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 02:32:15.325 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 02:32:15.327 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 02:32:15.327 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 02:32:15.328 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 02:32:15.328 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 02:32:15.329 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 02:32:17.378 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 02:32:17.379 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 12:22:13.160 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 12:22:13.163 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 12:22:13.164 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 12:22:13.165 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 12:22:13.166 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 12:22:13.167 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 12:22:15.992 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 12:22:15.994 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 13:32:59.977 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 13:32:59.979 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 13:32:59.980 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 13:32:59.982 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 13:32:59.983 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 13:32:59.984 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 13:33:02.893 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 13:33:02.895 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 19:02:11.844 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 19:02:11.846 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 19:02:11.847 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 19:02:11.848 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 19:02:11.848 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 19:02:11.849 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 19:02:14.831 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 19:02:14.832 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 19:05:10.989 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 19:05:10.991 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 19:05:10.992 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 19:05:10.993 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 19:05:10.993 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 19:05:10.993 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 19:05:13.841 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 19:05:13.841 start scanConnPort
+
+
+    =======  LOG   =======
+Phone device=Xiaomi 22021211RC
+Android version=12
+UI version=V140
+2025-03-29 22:04:47.288 WifiAdbActivateManager WifiAdbPortScaner crate
+2025-03-29 22:04:47.291 WifiAdbActivateManager WifiAdbExeThread crate
+2025-03-29 22:04:47.291 WifiAdbActivateManager WifiAdbPairExecutor crate
+2025-03-29 22:04:47.292 WifiAdbActivateManager WifiAdbConnectLocalExecutor crate
+2025-03-29 22:04:47.292 WifiAdbActivateManager WifiAdbTcpipExecutor crate
+2025-03-29 22:04:47.292 WifiAdbActivateManager WifiAdbModel build
+2025-03-29 22:04:49.353 WifiAdbActivateManagerImpl scanConnPort
+2025-03-29 22:04:49.354 start scanConnPort
