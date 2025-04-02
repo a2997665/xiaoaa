@@ -1,29 +1,42 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply plugin: 'com.android.application'
 
-buildscript {
-    
-    repositories {
-        mavenLocal()
-        google()
-        mavenCentral()
+android {
+    compileSdkVersion 32
+    buildToolsVersion "32.0.0"
+    ndkVersion '25.0.8775105'
+    defaultConfig {
+        applicationId "top.canyie.magiskkiller"
+
+        // The same method can be used on older Android (may need a bit of structure changes)
+        // But hiding root on pre-Nougat (7.0) Android is meaningless since /proc is world-readable
+        // On those devices, apps can simply check if there is a process named "magiskd"
+        minSdkVersion 21
+        targetSdkVersion 32
+        versionCode 4
+        versionName "1.3"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:7.4.1'
-        
 
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
+            version "3.18.1"
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 }
 
-allprojects {
-    repositories {
-        mavenLocal()
-        google()
-        mavenCentral()
-    }
-}
-
-task clean(type: Delete) {
-    delete rootProject.buildDir
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 }
